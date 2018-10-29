@@ -1,5 +1,5 @@
 # BankScrapper
-BankScraper (Python Version)
+BankScrapper (Python Version)
 
 Code will be uploaded soon.
 
