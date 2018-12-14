@@ -9,4 +9,4 @@ to an existing amount of money that is currently held in your primary bank accou
 
 So far the program can gather the information from ChaseBank and Friendbank.
 
-Estimated time of completion is December 2018 and will feature an interative GUI.
+Estimated time of completion is January 2019 and will feature an interative GUI.
